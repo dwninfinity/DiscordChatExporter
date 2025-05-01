@@ -130,14 +130,4 @@ DiscordChatExporter.Cli export --token "your-token" --channel 123456789123456789
 
 ## Note on Political Neutrality
 
-In our recent update, we've made the decision to remove political messaging from the application. This change aligns with the principles of the MIT license, which is designed to provide software with minimal restrictions, allowing it to be used by anyone regardless of their background, beliefs, or geographical location.
-
-### Why this change?
-
-1. **Software Accessibility**: We believe software tools should be accessible to all users without imposing political viewpoints. Technical tools should focus on their core functionality.
-
-2. **MIT License Principles**: The MIT license is about freedom to use, modify, and share software without discrimination. Political statements within the software could potentially contradict the spirit of this license by creating an unwelcoming environment for some users.
-
-3. **Focus on Functionality**: DiscordChatExporter is a utility tool with a specific technical purpose. By maintaining political neutrality, we ensure that the focus remains on the tool's functionality rather than peripheral issues.
-
-This change doesn't represent a stance on any particular political issue, but rather a commitment to creating software that serves its technical purpose while respecting the diverse backgrounds and views of all users.
+In our recent update, we've made the decision to remove political messaging from the application. This change aligns with the principles of the MIT license, which is designed to provide software with minimal restrictions, allowing it to be used by anyone regardless of their background, beliefs, or geographical location. :)
